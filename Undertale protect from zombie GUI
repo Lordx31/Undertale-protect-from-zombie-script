@@ -74,8 +74,6 @@ Section:NewSlider("Set ur fucking jump", "Make u fucking high jump", 1000, 0, fu
     game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
 end)
 
-Section:NewLabel("Fly and noclip will add in 1.5 version")
-
 local Tab = Window:NewTab("Credit")
 local Section = Tab:NewSection("Read this")
 
